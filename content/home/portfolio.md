@@ -34,6 +34,8 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
+    - name: Math
+      tag: Math
 
 design:
   columns: '1'
