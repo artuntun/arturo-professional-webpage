@@ -1,6 +1,6 @@
 ---
 title: Modeling EEG with HMM and Directional Distributions
-summary: Hidden Markov Models with directional distributions were used 
+summary: Modeling eeg microstates with directional multivariate distributions and Markov Chain Models
 tags:
   - Math
   - ML

@@ -1,6 +1,6 @@
 ---
 title: Sketch to prototype
-summary: At uizard I worked building a pipeline to turn a hand written mockup into a digital design
+summary: At uizard I worked building a pipeline to turn hand written mockups into a digital designs
 tags:
   - CV
   - ML
