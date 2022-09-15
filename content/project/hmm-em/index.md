@@ -1,6 +1,6 @@
 ---
 title: Modeling EEG with HMM and Directional Distributions
-summary: Modeling eeg microstates with directional multivariate distributions and Markov Chain Models
+summary: Can we predict what someone sees by looking at electric brain activity? We approached this problem by modeling EEG data with directional multivariate distributions and Markov Chain Models
 tags:
   - Math
   - ML
