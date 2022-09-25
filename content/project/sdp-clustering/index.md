@@ -1,9 +1,16 @@
 ---
 title: Semidefinite programming for graph clustering
-summary: During my master thesis, I researched convex relaxation techniques to make the graph-cut problem(NP-hard) computationally feasible while keeping high performance. This problem has direct applications in graph community detection 
+summary: Convex relaxation techniques to make the graph-cut problem(NP-hard) computationally feasible while keeping high performance. Real world application for community detection in graphs
 tags:
   - Math
 date: 2022-01-01
-# external_link: uploads/sdp-clustering.pdf
 external_link: https://slides.com/arturoarranz/deck
+links:
+  - icon_pack: fab
+    name: Slides
+    url: 'https://slides.com/arturoarranz/deck'
+  - icon_pack: fab
+    icon: github
+    name: Code
+    url: 'https://github.com/artuntun/SDP-clustering'
 ---

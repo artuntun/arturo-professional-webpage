@@ -6,4 +6,9 @@ tags:
   - ML
 date: 2022-01-01
 external_link: https://github.com/artuntun/EM-HMM-directional-distributions
+links:
+  - icon_pack: fab
+    icon: github
+    name: Code
+    url: 'https://github.com/artuntun/EM-HMM-directional-distributions'
 ---
